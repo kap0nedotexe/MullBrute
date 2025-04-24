@@ -18,7 +18,7 @@ A Mullvad VPN account checker and generator. I made this a long time ago, but I 
 #
 
 ### Instructions:
-Step 1 - Download MullBrute.
-Step 2 - Load your combo list/account number list into "Accounts/Accounts.txt".
-Step 3 - Start "MullBrute.exe".
-Step 4 - The rest is pretty self-explanatory.
+**Step 1:** Download MullBrute.
+**Step 2:** Load your combo list/account number list into "Accounts/Accounts.txt".
+**Step 3:** Start "MullBrute.exe".
+**Step 4:** The rest is pretty self-explanatory.

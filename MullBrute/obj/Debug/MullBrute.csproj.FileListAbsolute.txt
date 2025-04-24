@@ -1,0 +1,9 @@
+C:\Users\John Doe\source\repos\MullBrute\MullBrute\bin\Debug\MullBrute.exe.config
+C:\Users\John Doe\source\repos\MullBrute\MullBrute\bin\Debug\MullBrute.exe
+C:\Users\John Doe\source\repos\MullBrute\MullBrute\bin\Debug\MullBrute.pdb
+C:\Users\John Doe\source\repos\MullBrute\MullBrute\bin\Debug\Colorful.Console.dll
+C:\Users\John Doe\source\repos\MullBrute\MullBrute\obj\Debug\MullBrute.csproj.AssemblyReference.cache
+C:\Users\John Doe\source\repos\MullBrute\MullBrute\obj\Debug\MullBrute.csproj.CoreCompileInputs.cache
+C:\Users\John Doe\source\repos\MullBrute\MullBrute\obj\Debug\MullBrute.csproj.Up2Date
+C:\Users\John Doe\source\repos\MullBrute\MullBrute\obj\Debug\MullBrute.exe
+C:\Users\John Doe\source\repos\MullBrute\MullBrute\obj\Debug\MullBrute.pdb

@@ -25,3 +25,5 @@ A Mullvad VPN account checker and generator. I made this a long time ago, but I 
 **Step 3:** Start "MullBrute.exe".
 
 **Step 4:** The rest is pretty self-explanatory.
+
+**NOTE: Make sure the Mullvad VPN app is open while using MullBrute!**

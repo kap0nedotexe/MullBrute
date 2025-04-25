@@ -14,6 +14,7 @@ A Mullvad VPN account checker and generator. I made this a long time ago, but I 
 
 ### Requirements:
 - .NET Framework 4.8+ [https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net481-web-installer]
+- Mullvad VPN Desktop App [https://mullvad.net/download]
 
 #
 
